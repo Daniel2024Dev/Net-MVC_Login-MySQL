@@ -1,0 +1,25 @@
+@model Alunos 
+
+<h3>Cadastro de alunos</h3>
+
+<form method="POST" asp-action = "Editar">
+    <H2>Edição de informações</H2>
+    <input type="hidden" asp-for="IdAluno"> <!-- REGISTRO DE IdAluno -->
+    <p>
+    <label>Nome do aluno</label>
+    <input asp-for = "Nome">
+    </p>
+    <p>
+    <label>Senha</label>
+    <input asp-for = "Senha">
+    </p>
+    <p>
+    <label>Usuario</label>
+    <input asp-for = "Usuario">
+    </p>
+    <p>
+    <label>Data Nascimento do aluno</label>
+    <input asp-for = "DataNasc">
+    </p>
+    <input type="submit" value="Editar">
+</form>

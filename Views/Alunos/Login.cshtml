@@ -1,0 +1,18 @@
+@model Alunos
+
+<h3> Login </h3>
+
+<form method="POST" asp-action = "Login">
+    <h5>Informe seus dados de login</h5>
+    <p>
+        <label>login</label>
+        <input asp-for = "Usuario">
+    </p>
+    <p>
+        <label>Senha</label>
+        <input asp-for = "Senha">
+    </p>
+    <p>
+        <input type="submit" value="Acessar">
+    </p>
+</form>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEKS+Uh2N+k3sYqMxJ6Dxr30R0Q68+Fs89UtO8tntjFoUZdlx6tP7x7jqw0Ah+gyYQrWNqnsr0T/EalMfpyiCQ==",
+  "success": true,
+  "projectFilePath": "/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/Ex data base com seção.csproj",
+  "expectedPackageFiles": [
+    "/home/daniel/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512",
+    "/home/daniel/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

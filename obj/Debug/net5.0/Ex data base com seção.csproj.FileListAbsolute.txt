@@ -1,0 +1,94 @@
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.csprojAssemblyReference.cache
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.GeneratedMSBuildEditorConfig.editorconfig
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.AssemblyInfoInputs.cache
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.AssemblyInfo.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.csproj.CoreCompileInputs.cache
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.MvcApplicationPartsAssemblyInfo.cache
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.RazorAssemblyInfo.cache
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.RazorAssemblyInfo.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/staticwebassets/Ex data base com seção.StaticWebAssets.Manifest.cache
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/staticwebassets/Ex data base com seção.StaticWebAssets.xml
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/scopedcss/bundle/Ex data base com seção.styles.css
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.TagHelpers.input.cache
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.TagHelpers.output.cache
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.RazorCoreGenerate.cache
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Alunos/Cadastrar.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Alunos/Editar.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Alunos/Listar.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Alunos/Login.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.RazorTargetAssemblyInfo.cache
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.RazorTargetAssemblyInfo.cs
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.dll
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/ref/Ex data base com seção.dll
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.pdb
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/appsettings.Development.json
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/appsettings.json
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.deps.json
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.runtimeconfig.json
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.runtimeconfig.dev.json
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.dll
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/ref/Ex data base com seção.dll
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.pdb
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.Views.dll
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.Views.pdb
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/MySqlConnector.dll
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.Views.pdb
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.csproj.CopyComplete
+/home/DanielH/codigos/exemplo de codigos /exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.genruntimeconfig.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/appsettings.Development.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/appsettings.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.StaticWebAssets.xml
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.deps.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.runtimeconfig.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.runtimeconfig.dev.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/ref/Ex data base com seção.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.pdb
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.Views.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/Ex data base com seção.Views.pdb
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/MySqlConnector.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.csproj.AssemblyReference.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.AssemblyInfoInputs.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.AssemblyInfo.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.csproj.CoreCompileInputs.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.MvcApplicationPartsAssemblyInfo.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.RazorAssemblyInfo.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.RazorAssemblyInfo.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/scopedcss/bundle/Ex data base com seção.styles.css
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/staticwebassets/Ex data base com seção.StaticWebAssets.Manifest.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.TagHelpers.input.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.TagHelpers.output.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.RazorCoreGenerate.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Alunos/Cadastrar.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Alunos/Editar.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Alunos/Listar.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Alunos/Login.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.RazorTargetAssemblyInfo.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.RazorTargetAssemblyInfo.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.Views.pdb
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.csproj.CopyComplete
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/ref/Ex data base com seção.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.pdb
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/Ex data base com seção/obj/Debug/net5.0/Ex data base com seção.genruntimeconfig.cache

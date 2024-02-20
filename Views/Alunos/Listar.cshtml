@@ -1,0 +1,29 @@
+@model List<Alunos>
+
+<h3>Lista de aluno</h3>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Usuário</th>
+            <th>Senha</th>
+            <th>Data nacimento</th>
+            <th>Manutenção</th>
+
+        </tr>
+    </thead>
+    @foreach (Alunos a in Model)//PUXANDO A LIST DE MODEL
+    {
+        <tr>
+            <td>@a.Nome</td>
+            <td>@a.Usuario</td>
+            <td>@a.Senha</td>
+            <td>@a.DataNasc</td>
+            <!-- PASSANDO A INFORMAÇÃO IdAlunos VIA PARAMETRO GET -->
+            <td><a href="/Alunos/Editar?Id=@a.IdAluno">Editar</a></td> <!-- BOTÃO QUE EXECUTA A FUNÇÃO Editar EM IActionResult -->
+            <td><a href="/Alunos/Excluir?Id=@a.IdAluno">Excluir</a></td> <!-- BOTÃO QUE EXECUTA A FUNÇÃO Excluir EM IActionResult -->
+        </tr>
+    }
+</table>
